@@ -9,13 +9,13 @@
 		- [[Root/Resources/DM Tools/Creating NPCs/NPC - Make one up, varies depending on the npc_mis\|NPC - Make one up, varies depending on the npc_mis]]
 		- **NPC GENERATOR**
 			- [[Root/Resources/DM Tools/Creating NPCs/NPC GENERATOR/Creating NPC's\|Creating NPC's]]
-			- [[Root/Resources/Preparation/Culture system\|Root/Resources/Preparation/Culture system]]
+			- [[Root/Resources/Preparation/Culture system\|Culture system]]
 			- [[Root/Resources/DM Tools/Creating NPCs/NPC GENERATOR/Flaws\|Flaws]]
 			- [[Root/Resources/DM Tools/Creating NPCs/NPC GENERATOR/Occupations\|Occupations]]
 			- [[Root/Resources/DM Tools/Creating NPCs/NPC GENERATOR/Personality\|Personality]]
-	- [[Root/Resources/DM Tools/DM Screen\|Root/Resources/DM Tools/DM Screen]]
-	- [[Root/Resources/DM Tools/Session 0 Rules\|Root/Resources/DM Tools/Session 0 Rules]]
-- **[[Root/Resources/Equipment/Equipment\|Root/Resources/Equipment/Equipment]]**
+	- [[Root/Resources/DM Tools/DM Screen\|DM Screen]]
+	- [[Root/Resources/DM Tools/Session 0 Rules\|Session 0 Rules]]
+- **[[Root/Resources/Equipment/Equipment\|Equipment]]**
 - **[[Root/Resources/Images/Images\|Images]]**
 	- [[Root/Resources/Images/Image.png\|Image.png]]
 	- [[Root/Resources/Images/image2.png\|image2.png]]
@@ -24,14 +24,14 @@
 - [[Root/Resources/Notes\|Notes]]
 - **Preparation**
 	- [[Root/Resources/Preparation/Char Creation Questions\|Char Creation Questions]]
-	- [[Root/Resources/Preparation/Culture system\|Root/Resources/Preparation/Culture system]]
+	- [[Root/Resources/Preparation/Culture system\|Culture system]]
 	- [[Root/Resources/Preparation/Currency\|Currency]]
-	- [[Root/Resources/DM Tools/DM Screen\|Root/Resources/DM Tools/DM Screen]]
+	- [[Root/Resources/DM Tools/DM Screen\|DM Screen]]
 	- [[Root/Resources/Preparation/Magic Types\|Magic Types]]
 	- [[Root/Resources/Preparation/Notes For Roman Empire\|Notes For Roman Empire]]
 	- [[Root/Resources/Preparation/Running  a Business\|Running  a Business]]
 	- [[Root/Resources/Preparation/Sailing Rules\|Sailing Rules]]
-	- [[Root/Resources/DM Tools/Session 0 Rules\|Root/Resources/DM Tools/Session 0 Rules]]
+	- [[Root/Resources/DM Tools/Session 0 Rules\|Session 0 Rules]]
 	- [[Root/Resources/Preparation/Side missions\|Side missions]]
 - [[Root/Resources/Ships\|Ships]]
 - **Templates**
